@@ -87,5 +87,36 @@ This project demonstrates the use of:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
+```
+XPense-Tracker
+│
+├── main.cpp
+└── README.md
+```
+
+---
+
+#  How to Run
+
+### Compile
+g++ main.cpp -o xpense
+
+### Run
+./xpense
+
+---
+
+# Future Improvements
+
+Possible upgrades:
+
+- File storage (save data between runs)
+- GUI interface
+- Data visualization
+- Mobile version
+- Integration with budgeting analytics
+
+---
+
 
